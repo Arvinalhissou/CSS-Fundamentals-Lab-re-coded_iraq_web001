@@ -9,6 +9,8 @@ h1{
 img{
   align-items: center;
 }
-a{
+nav a{
+  padding:0 10px;
+  background-color: grey;
   
 }
